@@ -1,8 +1,0 @@
-#CLion文件夹
-.idea
-.idea/*
-
-#CMake 中间文件
-cmake-build-debug/*
-cmake-build-debug
-CMakeLists.txt
